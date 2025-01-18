@@ -1,19 +1,16 @@
 ![logo](https://github.com/anuradhacodervns/anuradhacoder/blob/main/Banner.png.jpeg)
 <h1 align="left">Hey 👋 I'm Anuradha  Maurya</h1>
 
-###
-
 <h2 align="left">About me</h2>
 
 ###
 
 <p align="left">📚 I'm currently learning ...<br>🎯 Goals: ...</p>
 
-###
 
 <h2 align="left">I code with</h2>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -31,8 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
-###
 
 <p align="left"></p>
 
-###
+
