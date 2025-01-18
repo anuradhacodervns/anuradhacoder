@@ -1,11 +1,13 @@
 
-<h1 align="left">Hey 👋 I 'm Anuradha Maurya</h1>
+
+  <h1 align="left">Hey 👋 I 'm Anuradha Maurya</h1>
 
 ###
 
 <h4 align="left">A passionate Software Engineer</h4>
 
 ###
+<img align="right"alt="coding"width="400"src="https://camo.githubusercontent.com/3753b18a8c7b146e3e7b6d587ee6f72feb44ca788524c36a088659e180ef9c42/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574"
 
 <h2 align="left">About me</h2>
 
