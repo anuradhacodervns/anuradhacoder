@@ -7,7 +7,7 @@
 <h4 align="left">A passionate Software Engineer</h4>
 
 ###
-<img align="right"alt="coding"width="400"src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562"
+
 <h2 align="left">About me</h2>
 
 ###
